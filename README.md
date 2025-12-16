@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋 I'm Mahvish Hasan</h1>
-<h3 align="center">I'm a curious CS student building small projects while learning AI, ML, and full-stack development</h3>
+<h3 align="center"> a curious CS student building small projects while learning AI, ML, and full-stack development</h3>
 
 - 🔭 I’m currently working on **incorporating AI into my personal projects**
 
