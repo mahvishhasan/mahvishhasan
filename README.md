@@ -1,13 +1,13 @@
  <h1 align="center">Hi 👋 I'm Mahvish Hasan</h1>
-<h3 align="center"> a curious CS student building small projects while learning AI, ML, and full-stack development</h3>
+<h3 align="center"> a student and full stack engineer, trying to get into ai engineering</h3>
 
 - 🔭 I’m currently working on **incorporating AI into my personal projects**
 
 - 🌱 I’m currently learning **JavaScript, Next.js, MongoDB, Python, React**
 
-- 🤝 I’m looking for help with **AI**
+- 🤝 I’m looking for help with **RAG**
 
-- 💬 Ask me about **C++, HTML, CSS, flutter fundamentals**
+- 💬 Ask me about **C++, HTML, CSS, flutter fundamentals, MERN**
 
 - 📫 How to reach me **mahvishhasann@gmail.com**
 
